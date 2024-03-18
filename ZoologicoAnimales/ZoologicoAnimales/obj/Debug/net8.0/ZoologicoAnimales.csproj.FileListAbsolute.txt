@@ -1,0 +1,14 @@
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\bin\Debug\net8.0\ZoologicoAnimales.exe
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\bin\Debug\net8.0\ZoologicoAnimales.deps.json
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\bin\Debug\net8.0\ZoologicoAnimales.runtimeconfig.json
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\bin\Debug\net8.0\ZoologicoAnimales.dll
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\bin\Debug\net8.0\ZoologicoAnimales.pdb
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\net8.0\ZoologicoAnimales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\net8.0\ZoologicoAnimales.AssemblyInfoInputs.cache
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\net8.0\ZoologicoAnimales.AssemblyInfo.cs
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\net8.0\ZoologicoAnimales.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\net8.0\ZoologicoAnimales.dll
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\net8.0\refint\ZoologicoAnimales.dll
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\net8.0\ZoologicoAnimales.pdb
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\net8.0\ZoologicoAnimales.genruntimeconfig.cache
+C:\Users\CELESTE ORE\source\repos\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\net8.0\ref\ZoologicoAnimales.dll
